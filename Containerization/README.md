@@ -6,7 +6,7 @@ Containerization/ \
 | \
 |_ volume/ (a folder, put here an input_file for the Starspace + an output file must appear here after running the dockerfile) \
 | \
-|_ Readme.md \
+|_ Readme.md
 ## Usage
 1. build container
    ```bash
